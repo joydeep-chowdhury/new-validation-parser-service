@@ -1,0 +1,7 @@
+{"errorResponse":{"errorMessages":[{"field":"Submission Group ID","message":"Submission Group ID length is less than the actual length","code":"GSF-99999"},{"field":"Relationship COde","message":"Relationship code length is less than the actual length","code":"GSF-99999"}]},"record":1}
+{"errorResponse":{"errorMessages":[{"field":"Relationship COde","message":"Relationship code length is less than the actual length","code":"GSF-99999"}]},"record":2}
+{"errorResponse":{"errorMessages":[{"field":"Submission Group ID","message":"Submission Group ID length is less than the actual length","code":"GSF-99999"},{"field":"Relationship COde","message":"Relationship code length is less than the actual length","code":"GSF-99999"}]},"record":4}
+{"errorResponse":{"errorMessages":[{"field":"Submission Group ID","message":"Submission Group ID length is less than the actual length","code":"GSF-99999"}]},"record":5}
+{"errorResponse":{"errorMessages":[{"field":"Relationship COde","message":"Relationship code length is less than the actual length","code":"GSF-99999"}]},"record":6}
+{"errorResponse":{"errorMessages":[{"field":"Submission Group ID","message":"Submission Group ID length is less than the actual length","code":"GSF-99999"},{"field":"Relationship COde","message":"Relationship code length is less than the actual length","code":"GSF-99999"}]},"record":8}
+{"errorResponse":{"errorMessages":[{"field":"Submission Group ID","message":"Submission Group ID length is less than the actual length","code":"GSF-99999"}]},"record":9}

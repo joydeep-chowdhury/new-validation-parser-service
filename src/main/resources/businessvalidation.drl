@@ -1,0 +1,17 @@
+import com.wipro.holmes.uhg.model.GSFModel;
+import com.wipro.holmes.uhg.model.ErrorMessage;
+
+	
+rule "SUBMISSION GROUP ID"
+when
+gsfmodelObject : GSFModel(submissionGroupId.length<8);
+then
+insert( new ErrorMessage("GSF-99999","Submission Group ID","Submission Group ID length is less than the actual length") );
+end;
+
+rule "RELATIONSHIP CODE"
+when
+gsfmodelObject : GSFModel(relationshipCode.length<2);
+then
+insert( new ErrorMessage("GSF-99999","Relationship  new Code","Relationship code length is less than the actual length") );
+end;
